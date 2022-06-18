@@ -30,6 +30,8 @@ export const ProductList = styled.ul`
       font-size: 21px;
       font-weight: bold;
       margin: 5px 0 20px;
+
+      cursor: pointer;
     }
 
     button {
@@ -63,6 +65,7 @@ export const ProductList = styled.ul`
         flex: 1;
         text-align: center;
         font-weight: bold;
+        cursor: pointer;
       }
     }
   }
